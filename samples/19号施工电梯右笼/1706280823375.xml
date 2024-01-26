@@ -1,0 +1,26 @@
+<annotation>
+	<folder>19号施工电梯右笼</folder>
+	<filename>1706280823375.jpg</filename>
+	<path>C:\Users\13696\Desktop\数据集\19号施工电梯右笼\1706280823375.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1565</width>
+		<height>795</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>925</xmin>
+			<ymin>265</ymin>
+			<xmax>1420</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>
