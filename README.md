@@ -1,1 +1,2 @@
 # worker-detection-dataset
+This repository offers samples from the self-created dataset mentioned in my research paper on worker detection. The dataset comprises original images and corresponding XML-format annotation files. As the photographed construction site is still in progress and considering privacy concerns, only a subset of the dataset is provided for review. Complete data disclosure will be considered upon the completion of the construction.
